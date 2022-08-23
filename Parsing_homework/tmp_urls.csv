@@ -1,0 +1,3020 @@
+id,urls,desc_html
+1001483488834247,https://proglib.io/vacancies/data-scientist-rubbles-2021-11-05,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""83992b77-c784-4398-b265-0be7d82ba527"" data-slug=""junior-data-scientist-algomost-2021-10-22"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания АлгоМост"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/algomost"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/10/22/29d00dcc7521d93efbcfc5f0b1d132a2.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/10/22/29d00dcc7521d93efbcfc5f0b1d132a2.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/10/22/29d00dcc7521d93efbcfc5f0b1d132a2.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/algomost"">
+                  АлгоМост
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""22.10.21 в 12:56"">
+              22 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-83992b77-c784-4398-b265-0be7d82ba527"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-83992b77-c784-4398-b265-0be7d82ba527"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""83992b77-c784-4398-b265-0be7d82ba527"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Junior Data Scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                            По результатам собеседования
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Москва
+            </span>
+          
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""Ap6BSHCV3osW725PNWItvzMPUJgxicFqwhQE3R9b3Lg"" data-undo-token=""XTsF5k3Votu140n8L7Y3RRf17lOQ0jTb-2gDruy_Waw"" data-token-name=""token"" data-do=""/v/junior-data-scientist-algomost-2021-10-22/bookmark"" data-undo=""/v/junior-data-scientist-algomost-2021-10-22/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        1
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">413</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Чем предстоит заниматься:</strong></h2><ul><li>Работа с данными</li><li>Построение предиктивных моделей с помощью ML и DL(CV)</li><li>Решение оптимизационных задач</li></ul><h2><strong>Требования:</strong></h2><ul><li>Техническое или профильное образование: предпочтительно МГУ, МФТИ, ВШЭ, МГТУ им. Баумана</li><li>Знание в сфере анализа данных, машинного обучения, статистики (методы, модели, способы их реализации и поддержки)</li><li>Python, стандартный ML-стэком(numpy, pandas, scikit-learn, xgboost/lightgbm/catboost), Pytorch/Tensorflow, OpenCV</li><li>Желателен опыт работы и/или успешные выступления в ML соревнованиях(Kaggle и пр.)</li><li>Хорошие коммуникативные навыки, умение работать в команде, умение справляться с многозадачностью и дедлайнами; желание изучать новые технологии</li><li>Полезны знания bash, git, SQL и Hadoop(Hive/pySpark)</li><li>Знание английского языка на уровне чтения технической литературы и научных статей, предпочтение отдается кандидатам со свободным разговорным языком</li></ul><h2><strong>Условия:</strong></h2><ul><li>Полный рабочий день, 5/2,</li><li>Удаленка, но также есть офис в Москве</li><li>Оформление по ТК РФ</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""Ap6BSHCV3osW725PNWItvzMPUJgxicFqwhQE3R9b3Lg"" data-undo-token=""XTsF5k3Votu140n8L7Y3RRf17lOQ0jTb-2gDruy_Waw"" data-token-name=""token"" data-do=""/v/junior-data-scientist-algomost-2021-10-22/bookmark"" data-undo=""/v/junior-data-scientist-algomost-2021-10-22/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        1
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/junior-data-scientist-algomost-2021-10-22&amp;title=Junior%20Data%20Scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/junior-data-scientist-algomost-2021-10-22"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/junior-data-scientist-algomost-2021-10-22&amp;text=Junior%20Data%20Scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/junior-data-scientist-algomost-2021-10-22"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/junior-data-scientist-algomost-2021-10-22"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834246,https://proglib.io/vacancies/data-engineer-studiya-dannyh-2021-11-03,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""2809eeb6-d1d0-409b-a266-f20f2fd18948"" data-slug=""data-scientist-zennolab-2021-10-28"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания ZennoLab"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/zennolab"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/05/15/7eb37170af894cfc4012d2d51ec46b54.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/05/15/7eb37170af894cfc4012d2d51ec46b54.png"" type=""image/png"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/05/15/7eb37170af894cfc4012d2d51ec46b54.png"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/zennolab"">
+                  ZennoLab
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""28.10.21 в 16:37"">
+              28 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-2809eeb6-d1d0-409b-a266-f20f2fd18948"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-2809eeb6-d1d0-409b-a266-f20f2fd18948"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""2809eeb6-d1d0-409b-a266-f20f2fd18948"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data Scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          От 150000 до 250000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Москва
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              3 года
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""jFoq565P1Kzge03z_ANe23nFSDsUqBD8J4822d2ypZA"" data-undo-token=""mMGzKMQLbKME3qzvLPEv8I0T62RrsWWgPQ6Hy5KT5qs"" data-token-name=""token"" data-do=""/v/data-scientist-zennolab-2021-10-28/bookmark"" data-undo=""/v/data-scientist-zennolab-2021-10-28/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">234</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Чем предстоит заниматься:</strong></h2><ul><li>Исследование нейросетей по компьютерному зрению;</li><li>Создание новых архитектур нейросетей;</li><li>Дообучение / улучшение существующих нейросетей, используемых в production;</li><li>Анализ современных моделей на применимость их бизнес-задачам компании.</li></ul><h2><strong>Что мы ждем от кандидата:</strong></h2><ul><li>Опыт работы с нейронными сетями от трех лет;</li><li>Хорошее знание Python;</li><li>Опыт работы с TensorFlow / PyTorch. Мы используем TensorFlow;</li><li>Знание алгоритмов и структур данных;</li><li>Знания методов машинного обучения и нейронных сетей;</li><li>Высшее техническое образование: математическое или по специальностям машинное обучение и анализ данных;</li><li>Технический английский.</li></ul><h2><strong>Будет преимуществом:</strong></h2><ul><li>Опыт использования нейросетей в production окружении;</li><li>Знание C# / Docker / Kubernetes / Grafana / Prometheus</li></ul><h2><strong>Что мы предлагаем:</strong></h2><ul><li>Работу на удаленке</li><li>Гибкий график (время пересечения с командой - с 12 до 18 МСК)</li><li>Профессиональное развитие, участие в IT конференциях</li><li>Высокий уровень коллег (Middle, Senior)</li><li>Постоянный фидбэк от пользователей сервисов</li><li>Небольшой, но дружный коллектив</li><li>Конкурентный уровень з/п</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""jFoq565P1Kzge03z_ANe23nFSDsUqBD8J4822d2ypZA"" data-undo-token=""mMGzKMQLbKME3qzvLPEv8I0T62RrsWWgPQ6Hy5KT5qs"" data-token-name=""token"" data-do=""/v/data-scientist-zennolab-2021-10-28/bookmark"" data-undo=""/v/data-scientist-zennolab-2021-10-28/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-zennolab-2021-10-28&amp;title=Data%20Scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-zennolab-2021-10-28"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-zennolab-2021-10-28&amp;text=Data%20Scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-zennolab-2021-10-28"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-zennolab-2021-10-28"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834245,https://proglib.io/vacancies/data-scientist-spark-equation-2021-11-01,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""a39c1570-fd4e-4980-ab36-2eda25d2c5fe"" data-slug=""data-scientist-forpost-2021-10-24"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Форпост"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/forpost"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/10/24/6c60ca3a4424a3576f94a95c7561a8de.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/10/24/6c60ca3a4424a3576f94a95c7561a8de.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/10/24/6c60ca3a4424a3576f94a95c7561a8de.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/forpost"">
+                  Форпост
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""24.10.21 в 02:19"">
+              24 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-a39c1570-fd4e-4980-ab36-2eda25d2c5fe"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-a39c1570-fd4e-4980-ab36-2eda25d2c5fe"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""a39c1570-fd4e-4980-ab36-2eda25d2c5fe"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                            По результатам собеседования
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Пермь
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              3 года
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""TDJfDe6fYWv_Sdc6iMC5cwW_9Lm9t86E04h4vY3HIPg"" data-undo-token=""GGH9vZpfmVGCl0K7EtNgb-69qrKwhZ6eCH-Oh6Tlfio"" data-token-name=""token"" data-do=""/v/data-scientist-forpost-2021-10-24/bookmark"" data-undo=""/v/data-scientist-forpost-2021-10-24/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">251</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Обязанности:</strong></h2><ul><li>Решение задач распознавания и классификации графических образов в видеопотоке с помощью нейронных сетей</li><li>Выдвижение и проверка гипотез с помощью машинного обучения для решения задач видеоаналитики (производство, безопасность, ритейл)</li><li>Обучение нейронных сетей и формирование первичных проверочных датасетов</li><li>Написание production-кода модулей видеоаналитики</li></ul><h2><strong>Требования:</strong></h2><ul><li>Понимание и практический опыт использования нейронных сетей</li><li>Инструменты: Python, C++, Tensorflow (Keras), Darknet</li><li>Математика: статистика, теория вероятностей, математический анализ, линейная алгебра</li><li>Инициативность, желание развиваться в области нейронных сетей и машинного обучения</li></ul><h2><strong>Условия:</strong></h2><ul><li>Заработная плата по результатам собеседования</li><li>Оформление по ТК РФ, корпоративный ДМС</li><li>Просторный офис с отличным видом на город</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""TDJfDe6fYWv_Sdc6iMC5cwW_9Lm9t86E04h4vY3HIPg"" data-undo-token=""GGH9vZpfmVGCl0K7EtNgb-69qrKwhZ6eCH-Oh6Tlfio"" data-token-name=""token"" data-do=""/v/data-scientist-forpost-2021-10-24/bookmark"" data-undo=""/v/data-scientist-forpost-2021-10-24/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-forpost-2021-10-24&amp;title=Data%20scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-forpost-2021-10-24"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-forpost-2021-10-24&amp;text=Data%20scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-forpost-2021-10-24"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-forpost-2021-10-24"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834244,https://proglib.io/vacancies/data-scientist-ripe-capital-2021-10-30,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""343a1ea1-951d-4395-b6fc-4d3a6af63af6"" data-slug=""data-scientist-spark-equation-2021-11-01"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Spark Equation"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/spark-equation"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/07/26/3bd0ae59e89831361d42a270ec208a3d.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/07/26/3bd0ae59e89831361d42a270ec208a3d.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/07/26/3bd0ae59e89831361d42a270ec208a3d.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/spark-equation"">
+                  Spark Equation
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""01.11.21 в 16:09"">
+              01 ноября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-343a1ea1-951d-4395-b6fc-4d3a6af63af6"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-343a1ea1-951d-4395-b6fc-4d3a6af63af6"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""343a1ea1-951d-4395-b6fc-4d3a6af63af6"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data Scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          От 120000 до 190000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Удаленная работа
+          </span>
+
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              6 лет
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""lhh7fc9uN_x1sm4Qhs0XL7x3rqT4j5Upt8s1_qI6cW0"" data-undo-token=""D6FVRwBnZzYR2NCA-36U26217Qlg-UcW3UCgBQcG7jg"" data-token-name=""token"" data-do=""/v/data-scientist-spark-equation-2021-11-01/bookmark"" data-undo=""/v/data-scientist-spark-equation-2021-11-01/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        1
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">300</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Требования:</strong></h2><ul><li>Умение программировать на языке Python или Java</li><li>Опыт построения систем анализа и визуализации данных</li><li>Хорошее знание алгоритмов машинного обучения и применение их на практике</li><li>Знание и опыт работы с ML библиотеками</li><li>Знание и опыт работы с SQL базами данных</li><li>Знание статистики и теории вероятности</li><li>Опыт работы с математическими пакетами (Matlab)</li><li>Знание английского на уровне Upper-Intermediate</li><li>Умение работать с системами контроля версий (Git)</li></ul><h2><strong>Плюсом будет:</strong></h2><ul><li>Опыт работы с NoSQL базами данных</li><li>Опыт коммерческого программирования</li><li>Опыт проведения A/B-экспериментов</li><li>Понимание работы с облачными системами и платформами (AWS, Azure, Google)</li><li>Высшее образование по специальности программист-математик</li></ul><h2><strong>Обязанности:</strong></h2><ul><li>Участие в разработке внутренних и внешних проектов компании</li><li>Построение и проверка гипотез</li><li>Подготовка, очистка, обработка данных</li><li>Построение моделей машинного обучения</li><li>Подбор методов анализа данных</li></ul><h2><strong>Условия:</strong></h2><ul><li>Работа удаленно 5/2, с 10.00 до 19.00 (время Москва)</li><li>Стать частью сильной команды</li><li>Интересные и важные задачи</li><li>Работа только с зарубежными заказчиками по современным стандартам</li><li>Возможность роста внутри компании как в техническом, так и в управленческом направлении (мы быстро расширяемся)</li></ul><h2><strong>Компенсация:</strong></h2><ul><li>Регулярный пересмотр ЗП по результатам ревью</li><li>Официальное трудоустройство</li></ul><h2><strong>Преимущества:</strong></h2><ul><li>Полис ДМС со стоматологией (после прохождения испытательного срока)</li><li>Ежегодный бюджет каждому сотруднику на развитие и обучение</li><li>Возможность участия в российских и международных конференциях (для международных нужен разговорный английский)</li><li>Возможность командировок в офис в Чикаго, США (нужен разговорный английский)</li><li>Юридическая помощь (в том числе в получении визы)</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""lhh7fc9uN_x1sm4Qhs0XL7x3rqT4j5Upt8s1_qI6cW0"" data-undo-token=""D6FVRwBnZzYR2NCA-36U26217Qlg-UcW3UCgBQcG7jg"" data-token-name=""token"" data-do=""/v/data-scientist-spark-equation-2021-11-01/bookmark"" data-undo=""/v/data-scientist-spark-equation-2021-11-01/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        1
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-spark-equation-2021-11-01&amp;title=Data%20Scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-spark-equation-2021-11-01"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-spark-equation-2021-11-01&amp;text=Data%20Scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-spark-equation-2021-11-01"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-spark-equation-2021-11-01"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834242,https://proglib.io/vacancies/data-scientist-zennolab-2021-10-28,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""80bd5156-6b1a-44ff-9fa4-383670d29315"" data-slug=""data-scientist-rubbles-2021-11-05"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Rubbles"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/rubbles"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/09/22/2cdcece6173e6a8e3c9aa995ca009810.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/09/22/2cdcece6173e6a8e3c9aa995ca009810.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/09/22/2cdcece6173e6a8e3c9aa995ca009810.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/rubbles"">
+                  Rubbles
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""05.11.21 в 15:31"">
+              05 ноября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-80bd5156-6b1a-44ff-9fa4-383670d29315"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-80bd5156-6b1a-44ff-9fa4-383670d29315"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""80bd5156-6b1a-44ff-9fa4-383670d29315"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data Scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          До 500000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Москва
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              6 лет
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""j7qEWf7i2ZV1US1agyNNAySIEmzQSjhSBmRxGKk0koA"" data-undo-token=""DzXziNav_0UAPOuZ1HlqnNwWWIlsXkhSfeji1MeQh30"" data-token-name=""token"" data-do=""/v/data-scientist-rubbles-2021-11-05/bookmark"" data-undo=""/v/data-scientist-rubbles-2021-11-05/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">178</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Обязанности:</strong></h2><ul><li>Моделирование и обработка данных на Python для извлечения бизнес-ценности из данных;</li><li>Глубокое обсуждение задач и методов их решения совместно с коллегами и бизнес-заказчиками;</li><li>Построение воспроизводимых и переиспользуемых решений для работы с данными и моделями;</li><li>Если будет хватать опыта — курирование или руководство командой.</li></ul><h2><strong>На что смотрим:</strong></h2><ul><li>Опыт использования ml библиотек на Python (бустинг, нейронные сети и др.) и понимание особенностей реализации различных аспектов алгоритмов в коде;</li><li>Опыт работы на позиции, связанной с промышленной разработкой;</li><li>Понимание методов машинного обучения с точки зрения математики и умение адаптировать их под конкретные задачи;</li><li>Опыт работы с Spark, Pyspark, Pandas, SQL, Hive и др.;</li><li>Опыт проработки задачи от бизнес-постановки до математической формулировки и реализации в коде;</li><li>Опыт автоматизации пайплайнов работы с данными (Airflow и др.) и навыки devops (Docker, Kubernetes и др.);</li><li>Soft-skills и широта ответственности в прошлом (например, тимлидство, управление людьми, проектами и т. п.).</li></ul><h2><strong>У нас:</strong></h2><ul><li>Участие в быстром росте компании, работающей на перспективном AI рынке;</li><li>Удаленная работа при желании;</li><li>Поддержка кандидата в профессиональном и карьерном росте;</li><li>Совместная работа с опытными разработчиками, аналитиками данных, менеджерами, продуктологами;</li><li>Гибкий график работы;</li><li>Оформление полностью белое по ТК РФ;</li><li>ДМС (включая стоматологию) в хороших клиниках Москвы и Московской области;</li><li>Уютный офис в центре Москвы (2 минуты от м. Сухаревская) со всем необходимым для комфортной работы.</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""j7qEWf7i2ZV1US1agyNNAySIEmzQSjhSBmRxGKk0koA"" data-undo-token=""DzXziNav_0UAPOuZ1HlqnNwWWIlsXkhSfeji1MeQh30"" data-token-name=""token"" data-do=""/v/data-scientist-rubbles-2021-11-05/bookmark"" data-undo=""/v/data-scientist-rubbles-2021-11-05/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-rubbles-2021-11-05&amp;title=Data%20Scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-rubbles-2021-11-05"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-rubbles-2021-11-05&amp;text=Data%20Scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-rubbles-2021-11-05"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-rubbles-2021-11-05"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834241,https://proglib.io/vacancies/lead-data-scientist-set-partnerstv-2021-10-26,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""a96bd5a8-3007-477c-8563-ca8161aadba3"" data-slug=""data-scientist-deltaplan-group-2021-10-20"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Deltaplan Group"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/deltaplan-group"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/10/20/839ada945278bf6aa848d946f7031949.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/10/20/839ada945278bf6aa848d946f7031949.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/10/20/839ada945278bf6aa848d946f7031949.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/deltaplan-group"">
+                  Deltaplan Group
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""20.10.21 в 16:29"">
+              20 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-a96bd5a8-3007-477c-8563-ca8161aadba3"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-a96bd5a8-3007-477c-8563-ca8161aadba3"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""a96bd5a8-3007-477c-8563-ca8161aadba3"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data Scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          От 150000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Екатеринбург
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              6 лет
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""bok76wjBEKWZTJJu7es7xSZrNLryEwz0fA65SrAKZvg"" data-undo-token=""uCfQskfiQDMvvRcbFr5TCuCBrM2hiMj5EDEayhBpqMc"" data-token-name=""token"" data-do=""/v/data-scientist-deltaplan-group-2021-10-20/bookmark"" data-undo=""/v/data-scientist-deltaplan-group-2021-10-20/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">280</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Что пригодится в работе:</strong></h2><ul><li>Знание методов анализа данных (мат. анализ и статистика, теория вероятностей и т.д.);</li><li>Понимание основ работы нейронных сетей;</li><li>Знание ML алгоритмов и владение основными концептами ML;</li><li>Опыт коммерческой Python разработки;</li><li>Опыт работы с базами данных/ с MYSQL;</li><li>Знание и применение принципов ООП, SOLID;</li><li>Опыт вывода микросервисов в продуктов.</li></ul><h2><strong>Стек технологий:</strong></h2><ul><li>Python (pandas, numpy, и др.);</li><li>RESTful APIs;</li><li>MYSQL, PostgreSQL;</li><li>Git.</li></ul><h2><strong>Условия и бонусы от нас:</strong></h2><ul><li><strong>Свобода:</strong> гибкое начало рабочего дня. Нет дресс-кода, жесткого тайминга дня, бумажной волокиты;</li><li><strong>Уверенность: </strong>официальное трудоустройство с первого дня, стабильные выплаты заработной платы трижды в месяц, отпуска, ДМС;</li><li><strong>Комфорт:</strong> офис в Екб, Мск, Нск, Челябинске - либо любая точка мира удалённо;</li><li><strong>Амбиции:</strong> наши проекты - это инновационные прорывные продукты.</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""bok76wjBEKWZTJJu7es7xSZrNLryEwz0fA65SrAKZvg"" data-undo-token=""uCfQskfiQDMvvRcbFr5TCuCBrM2hiMj5EDEayhBpqMc"" data-token-name=""token"" data-do=""/v/data-scientist-deltaplan-group-2021-10-20/bookmark"" data-undo=""/v/data-scientist-deltaplan-group-2021-10-20/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-deltaplan-group-2021-10-20&amp;title=Data%20Scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-deltaplan-group-2021-10-20"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-deltaplan-group-2021-10-20&amp;text=Data%20Scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-deltaplan-group-2021-10-20"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-deltaplan-group-2021-10-20"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834240,https://proglib.io/vacancies/data-scientist-forpost-2021-10-24,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""150d71a3-026a-42b1-b435-373167aebb90"" data-slug=""data-engineer-chatfuel-2021-10-16"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Chatfuel"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/chatfuel"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/10/16/35c17b8bfedec91ce1f7c412e2bb0a42.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/10/16/35c17b8bfedec91ce1f7c412e2bb0a42.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/10/16/35c17b8bfedec91ce1f7c412e2bb0a42.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/chatfuel"">
+                  Chatfuel
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""16.10.21 в 01:21"">
+              16 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-150d71a3-026a-42b1-b435-373167aebb90"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-150d71a3-026a-42b1-b435-373167aebb90"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""150d71a3-026a-42b1-b435-373167aebb90"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data Engineer</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          От 150000 до 360000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Удаленная работа
+          </span>
+
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              6 лет
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""L5IvjccjOTIcUGzVmDk42MwuPQEnfvJ5XZ2vZ5n9Has"" data-undo-token=""mErjMYt4NpJz9pdJ0VSAnggMSKDPOHXpcnyDNo2gNu8"" data-token-name=""token"" data-do=""/v/data-engineer-chatfuel-2021-10-16/bookmark"" data-undo=""/v/data-engineer-chatfuel-2021-10-16/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">358</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Требования</strong></h2><ul><li>Опыт выстраивания аналитических процессов от этапа сбора данных до конечного пользователя.</li><li>Опыт работы с Big Data и высоконагруженными pipelines.</li><li>Опыт работы с SQL, Python, Google Cloud, MongoDB, Git, Apache Airflow или аналогичными продуктами.</li><li>Понимание современных технологических стеков для работы с данными, умение выбирать наиболее оптимальные решения в рамках текущих ограничений.</li><li>Общая эрудированность в области веб-технологий.</li><li>Умение комплексно анализировать состояние продукта и клиентский путь в нем.</li><li>Умение работать в условиях неопределенности.</li><li>Внимание к деталям, умение концентрироваться и доводить дело до конца.</li><li>Разговорный английский.</li></ul><h2><strong>Желательно</strong></h2><ul><li>Опыт в веб-аналитике (GTM, Google Analytics).</li><li>Опыт работы с Google Cloud Platform или аналогичными продуктами.</li></ul><h2><strong>Задачи</strong></h2><ul><li>Проектировать и поддерживать ETL pipelines.</li><li>Внедрять автоматизированный QA, CI/CD и мониторинг процессов обработки данных.</li><li>Собирать вместе с аналитиками витрины для бизнеса.</li></ul><h2><strong>Условия</strong></h2><ul><li>Большой стек интересных и амбициозных задач, возможность развивать Data Governance с нуля.</li><li>У нас уже много данных (больше 500 млн пользователей), так что вы сможете влиять на все связанные с данными задачи.</li><li>Результат вашей работы будет напрямую влиять на бизнес и рост компании. Мы работаем в Google Cloud и используем его самые современные разработки (как Google Functions), а также Open Source (Apache Airflow, ELK stack).</li><li>Много свободы.</li><li>Зарплата на уровне рынка и выше.</li><li>Remote-first, но есть офис в Москве, на «Флаконе».</li><li>Активно делимся знаниями внутри компании, проводим митапы и другие интересные встречи.</li><li>Все равны и прислушиваются друг к другу — можно предлагать и воплощать идеи (для продукта, проекта, процессов).</li><li>Для работы даем макбуки, компенсируем софт, устраиваем крутые корпоративы и встречи, ДМС по всей России.</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""L5IvjccjOTIcUGzVmDk42MwuPQEnfvJ5XZ2vZ5n9Has"" data-undo-token=""mErjMYt4NpJz9pdJ0VSAnggMSKDPOHXpcnyDNo2gNu8"" data-token-name=""token"" data-do=""/v/data-engineer-chatfuel-2021-10-16/bookmark"" data-undo=""/v/data-engineer-chatfuel-2021-10-16/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-engineer-chatfuel-2021-10-16&amp;title=Data%20Engineer&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-engineer-chatfuel-2021-10-16"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-engineer-chatfuel-2021-10-16&amp;text=Data%20Engineer"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-engineer-chatfuel-2021-10-16"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-engineer-chatfuel-2021-10-16"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834239,https://proglib.io/vacancies/junior-data-scientist-algomost-2021-10-22,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""2c5ef9e7-92c6-48a2-b8df-27e3ca78dd22"" data-slug=""data-scientist-dvgroup-2021-10-12"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания DVGroup"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/dvgroup"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/08/10/02fc0f1a3af29ba20551bf27dca1f006.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/08/10/02fc0f1a3af29ba20551bf27dca1f006.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/08/10/02fc0f1a3af29ba20551bf27dca1f006.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/dvgroup"">
+                  DVGroup
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""12.10.21 в 15:14"">
+              12 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-2c5ef9e7-92c6-48a2-b8df-27e3ca78dd22"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-2c5ef9e7-92c6-48a2-b8df-27e3ca78dd22"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""2c5ef9e7-92c6-48a2-b8df-27e3ca78dd22"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data Scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                            По результатам собеседования
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Удаленная работа
+          </span>
+
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              6 лет
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""GjaIllrHUgl5tRBlG8TvGm9-NFehgD1Bo2fG0Qcca6I"" data-undo-token=""ha8SOUeYZUaoUwbuHoaKgZxv5A7PKfGYlmh9BnpFi3Y"" data-token-name=""token"" data-do=""/v/data-scientist-dvgroup-2021-10-12/bookmark"" data-undo=""/v/data-scientist-dvgroup-2021-10-12/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">420</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Обязанности:</strong></h2><ul><li>Написанием моделей для классификации товаров и пользователей.</li><li>Создание и поддержка пайплайна работы моделей.</li><li>Улучшением моделей.</li></ul><h2><strong>Требования:</strong></h2><ul><li>Опыт работы DS в реальных проектах от 2 лет.</li><li>Понимание алгоритмов классического DS и NLP.</li><li>Наличие проектов работающих в продакшне.</li><li>Понимание ML Ops.</li></ul><h2><strong>Условия:</strong></h2><ul><li>Работа под руководством ведущих специалистов отрасли интернет-индустрии, у которых многому можно научиться.</li><li>Конкурентная заработная плата по результатам собеседования.</li><li>Место работы офис в Москве, ст. м. Серпуховская, Павелецкая/ Удаленная робота.</li><li>Команда профессионалов.</li><li>Кофе / фрукты / печеньки в офисе.</li><li>Работа с крупнейшими брендами.</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""GjaIllrHUgl5tRBlG8TvGm9-NFehgD1Bo2fG0Qcca6I"" data-undo-token=""ha8SOUeYZUaoUwbuHoaKgZxv5A7PKfGYlmh9BnpFi3Y"" data-token-name=""token"" data-do=""/v/data-scientist-dvgroup-2021-10-12/bookmark"" data-undo=""/v/data-scientist-dvgroup-2021-10-12/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-dvgroup-2021-10-12&amp;title=Data%20Scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-dvgroup-2021-10-12"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-dvgroup-2021-10-12&amp;text=Data%20Scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-dvgroup-2021-10-12"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-dvgroup-2021-10-12"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834238,https://proglib.io/vacancies/data-scientist-deltaplan-group-2021-10-20,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""57e73904-edfb-4da6-8aa3-02d07210a40e"" data-slug=""data-scientist-premer-analitika-2021-10-08"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Премьер Аналитика"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/premer-analitika"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/10/08/69c25640d514d47744378a443221a25a.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/10/08/69c25640d514d47744378a443221a25a.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/10/08/69c25640d514d47744378a443221a25a.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/premer-analitika"">
+                  Премьер Аналитика
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""08.10.21 в 02:17"">
+              08 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-57e73904-edfb-4da6-8aa3-02d07210a40e"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-57e73904-edfb-4da6-8aa3-02d07210a40e"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""57e73904-edfb-4da6-8aa3-02d07210a40e"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          От 400000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Москва
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              3 года
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""bmW6JPikTxDJJ2n9M2xzVpynQ8FSfb3BzTTf12H2x6U"" data-undo-token=""PntIg46zkkEo8ECm7OB0A3n2ZH_2M4j-M_NuKBnmHPc"" data-token-name=""token"" data-do=""/v/data-scientist-premer-analitika-2021-10-08/bookmark"" data-undo=""/v/data-scientist-premer-analitika-2021-10-08/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">469</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Что мы хотим:</strong></h2><p>Мы разрабатываем новый SaaS-продукт и нам нужен в команду эксперт, имеющий опыт в запуске новых продуктов с ""0"", готовый анализировать большие массивы данных, формировать на их основе инсайты и реализовывать их.</p><h2><strong>Мы видим, что основными обязанностями станут:</strong></h2><ul><li>Изучение потребностей клиентов</li><li>Подготовка и защита бизнес-кейса по продукту (бизнес-планирование)</li><li>Формирование команды разработчиков</li><li>Управление рабочей группой по созданию продукта</li><li>Тестирование продукта</li><li>Сбор и анализ обратной связи по продукту</li></ul><h2><strong>Что поможет в решении задач:</strong></h2><ul><li>Понимание технологий ML, AI</li><li>Опыт работы в IT с большими массивами данных, например в cashback сервисах, операторах фискальных данных.</li><li>Опыт работы в FMCG-секторе, понимание специфики коммерческих взаимоотношений поставщиков в сети.</li><li>Бизнес-ориентированный подход к работе, направленность на результат.</li></ul><p><strong>У Вас есть преимущество если вы работали в компаниях Nielsen, GFK и ОФД.</strong></p><h2><strong>Условия и плюшки:</strong></h2><ul><li>Возможность создавать крутой продукт для десятков тысяч клиентов в РФ</li><li>Помощь в релокации из других городов, либо работа на удаленке</li><li>Высокая заработная плата</li><li>Доля от продаж продукта клиентам</li><li>Топовое железо и софт</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""bmW6JPikTxDJJ2n9M2xzVpynQ8FSfb3BzTTf12H2x6U"" data-undo-token=""PntIg46zkkEo8ECm7OB0A3n2ZH_2M4j-M_NuKBnmHPc"" data-token-name=""token"" data-do=""/v/data-scientist-premer-analitika-2021-10-08/bookmark"" data-undo=""/v/data-scientist-premer-analitika-2021-10-08/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-premer-analitika-2021-10-08&amp;title=Data%20scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-premer-analitika-2021-10-08"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-premer-analitika-2021-10-08&amp;text=Data%20scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-premer-analitika-2021-10-08"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-premer-analitika-2021-10-08"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834237,https://proglib.io/vacancies/data-scientist-mind-machine-2021-10-18,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""4bd44de9-d345-4a63-b15c-2fa70d80692a"" data-slug=""data-scientist-mind-machine-2021-10-18"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Mind&amp;Machine"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/mind-machine"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/10/18/0a8055fb099bd9b1168afe386caca208.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/10/18/0a8055fb099bd9b1168afe386caca208.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/10/18/0a8055fb099bd9b1168afe386caca208.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/mind-machine"">
+                  Mind&amp;Machine
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""18.10.21 в 15:44"">
+              18 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-4bd44de9-d345-4a63-b15c-2fa70d80692a"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-4bd44de9-d345-4a63-b15c-2fa70d80692a"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""4bd44de9-d345-4a63-b15c-2fa70d80692a"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Data scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          От 160000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Москва
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              3 года
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""5fPbj3UYxDWW3Guv8xrxazqo4UYbMfBZEKxwWQfBq30"" data-undo-token=""ST4_0IyDxegXJoEgxeVjZ5DiK036-fGWJo6-1FGEmAo"" data-token-name=""token"" data-do=""/v/data-scientist-mind-machine-2021-10-18/bookmark"" data-undo=""/v/data-scientist-mind-machine-2021-10-18/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">286</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Ключевые навыки:‍‍</strong></h2><ul><li>Умение общаться с клиентами и понимать их бизнес-процессы</li><li>Знание Python, в том числе numpy, scipy, pandas, scikit-learn</li><li>Ответственный подход к решению поставленных задач</li><li>Минимальный опыт работы от<strong> 2 лет</strong></li><li>Знание git</li><li>Знание теории вероятности и статистики</li><li>Знание Machine learning</li></ul><h2><strong>Основные задачи:</strong></h2><ul><li>анализ процессов клиентов</li><li>прогнозирование временных рядов: потока клиентов, объёма операций, построение иерархических временных рядов</li><li>анализ эффективности работы инструмента прогнозирования у клиентов</li></ul><h2><strong>Условия:</strong></h2><ul><li>работа в офисе, м. Бауманская, гибкий график, возможна частично удаленная работа</li><li>адекватное и открытое руководство, позитивная команда</li><li>работа над действительно интересными и инновационными проектами, вы сразу видите результат своего труда</li><li>обязательная прокачка hard и soft skills, индивидуальный план развития с каждым сотрудником</li><li>безлимитный доступ к чаю и сладостям в офисе, фрукты</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""5fPbj3UYxDWW3Guv8xrxazqo4UYbMfBZEKxwWQfBq30"" data-undo-token=""ST4_0IyDxegXJoEgxeVjZ5DiK036-fGWJo6-1FGEmAo"" data-token-name=""token"" data-do=""/v/data-scientist-mind-machine-2021-10-18/bookmark"" data-undo=""/v/data-scientist-mind-machine-2021-10-18/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/data-scientist-mind-machine-2021-10-18&amp;title=Data%20scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/data-scientist-mind-machine-2021-10-18"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/data-scientist-mind-machine-2021-10-18&amp;text=Data%20scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/data-scientist-mind-machine-2021-10-18"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/data-scientist-mind-machine-2021-10-18"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834236,https://proglib.io/vacancies/data-engineer-chatfuel-2021-10-16,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""52cc1415-2fd0-45f5-9667-608949e11a36"" data-slug=""analitik-promyshlennyh-dannyh-watts-battery-2021-10-10"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Watts Battery"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/watts-battery"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/10/10/9ab45f2b022b39ebcad466c2eda8d872.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/10/10/9ab45f2b022b39ebcad466c2eda8d872.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/10/10/9ab45f2b022b39ebcad466c2eda8d872.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/watts-battery"">
+                  Watts Battery
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""10.10.21 в 00:45"">
+              10 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-52cc1415-2fd0-45f5-9667-608949e11a36"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-52cc1415-2fd0-45f5-9667-608949e11a36"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""52cc1415-2fd0-45f5-9667-608949e11a36"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Аналитик промышленных данных</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                          От 120000 RUB
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Москва
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              3 года
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""hoX5_ezGUZxPFDlseT7CQzhgpOetQ-bbu8tUPYcs3mo"" data-undo-token=""puJwUrJXhXhO_ECb8nqHz3jLEQvIE2jzDIRRH0D7FXo"" data-token-name=""token"" data-do=""/v/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10/bookmark"" data-undo=""/v/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">354</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Обязанности:</strong></h2><ul><li>Регулярно работать с командой R&amp;D и IT, выясняя детали задачи и демонстрируя результаты, часть общения будет на английском языке.</li><li>Организовывать сбор и обработку данных для анализа (облачные данные, данные промышленных изделий, данные измерительных приборов и пр.).</li><li>Реализовывать методики анализа данных и подготавливать аналитические отчеты по запросу R&amp;D и IT:</li><li class=""ql-indent-1"">например, может понадобиться найти данные, отвечающие заданным исследованиям за все время использования изделий или за указанные промежутки времени (включая условия, выполняющиеся на длительном промежутке времени).</li><li>Разрабатывать средства автоматизации построения отчетов по типовым запросам.</li><li>Автоматизировать мониторинг данных изделий в реальном времени:</li><li class=""ql-indent-1"">например, анализировать аномалии поведения изделий по их данным,</li><li class=""ql-indent-1"">анализировать отклонение полученных значений от ожидаемых.</li></ul><h2><strong>Требования:</strong></h2><ul><li>Знать и уметь применять на практике методы анализа структурированных данных, такие как методы анализа временных рядов. Умение находить аномалии в данных будет плюсом.</li><li>Владеть языком Python (или другим языком автоматизации) применительно к области анализа данных и автоматизации сборки и обработки данных.</li><li>Быть готовы разбираться в новой области аналитики промышленных данных и IoT.</li><li>Понимание принципов анализа больших данных (Big Data) и средств ETL.</li><li>Плюсом будет знание методов прогнозирования технического обслуживания и прогнозирование параметров по историческим данным.</li></ul><h2><strong>Условия:</strong></h2><ul><li>Официальное трудоустройство и соцпакет.</li><li>R&amp;D офис в Сколково.</li><li>Возможность работать удаленно, но для тестирования/отладки взаимодействия с изделиями необходимо иметь возможность посещать офис.</li><li>Интересные задачи, способствующие сохранению экологии.</li><li>Возможность развиваться и в перспективе возглавить направление аналитики данных.</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""hoX5_ezGUZxPFDlseT7CQzhgpOetQ-bbu8tUPYcs3mo"" data-undo-token=""puJwUrJXhXhO_ECb8nqHz3jLEQvIE2jzDIRRH0D7FXo"" data-token-name=""token"" data-do=""/v/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10/bookmark"" data-undo=""/v/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10&amp;title=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10&amp;text=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834235,https://proglib.io/vacancies/junior-data-scientist-sportmaster-2021-10-14,"<article class=""entity entity--vacancy block"" data-entity=""vacancy"" data-id=""b859f752-788a-4258-8f9e-5c94efcd8162"" data-slug=""junior-data-scientist-sportmaster-2021-10-14"" data-reaction-wrapper>
+
+            <header class=""block__header"">
+        
+        
+        <div class=""flex align-between mb-4"">
+          <div>
+
+                                      <span title=""Компания Спортмастер"" class=""author-info"">
+                                  <a class=""no-link userpic userpic--small mr-2"" href=""/c/sportmaster"">
+                    
+    
+
+
+
+	<picture>
+					<source srcset=""https://media.proglib.io/companies/2021/07/14/f9fad71abadda788439e6c8e42301e8a.webp"" type=""image/webp"">
+					<source srcset=""https://media.proglib.io/companies/2021/07/14/f9fad71abadda788439e6c8e42301e8a.jpg"" type=""image/jpg"">
+				<img loading=""lazy"" src=""https://media.proglib.io/companies/2021/07/14/f9fad71abadda788439e6c8e42301e8a.jpg"" width=""20"" height=""20"">
+	</source></source></picture>
+
+    
+
+                  </a>
+                
+                <a class=""link-reverse"" href=""/c/sportmaster"">
+                  Спортмастер
+                </a>
+
+                                <span class=""ico ico--small verification-mark"">
+                    <svg width=""10"" height=""10""><use xlink:href=""#check-icon"" href=""#check-icon""></use></svg>
+                  </span>
+                              </span>
+
+            
+                        <span class=""ml-4 publish-info"" title=""14.10.21 в 16:05"">
+              14 октября 2021
+            </span>
+          </div>
+
+                    <div>
+            		
+  		      
+			<div class=""editblock"">
+
+		<div class=""editblock__icon"" data-modal-toggler=""#vacancy-editblock-b859f752-788a-4258-8f9e-5c94efcd8162"">
+			<span class=""ico"">
+				<svg width=""18"" height=""4""><use xlink:href=""#ellipsis-icon"" href=""#ellipsis-icon""></use></svg>
+			</span>
+		</div>
+
+		<div id=""vacancy-editblock-b859f752-788a-4258-8f9e-5c94efcd8162"" class=""hidden dropdown dropdown--right"">
+
+														
+					<div class=""editblock__option"" onclick='complain(""vacancy"", ""b859f752-788a-4258-8f9e-5c94efcd8162"")'>
+														<span class=""editblock__text link-reverse"">
+								
+																	Пожаловаться
+								
+															</span>
+						
+					</div>
+																												
+
+		</div>
+
+	</div>
+
+
+          </div>
+        </div>
+
+        <h1 class=""entity__title mb-2"">Junior Data scientist</h1>
+
+                <div class=""mb-4"">
+          <span class=""mr-4"">
+                            По результатам собеседования
+                      </span>
+
+          
+          <span class=""mr-4"">
+            Полная занятость
+          </span>
+
+          <span class=""mr-4"">
+            Офис
+          </span>
+
+                      <span class=""mr-4"">
+              Москва
+            </span>
+          
+                      <span class=""mr-4"">
+              Опыт работы:
+                              3 года
+                          </span>
+                    
+        </div>
+
+        <div class=""mv-4"">
+          <div class=""reactions-bar"">
+            <div class=""reactions-bar__tags"">
+              <div class=""flex flex-wrap"">
+                
+              </div>
+            </div>
+            <div class=""reactions-bar__info"">
+              <div class=""reactions-bar__reactions"">
+                                  
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""OssU8p-SYxN4VUvZhrGJv_7vhga8MvBApapo-9qvR4c"" data-undo-token=""HWARc5bFInTadA7jfMcNKDpN0LELAtdZOZr74cZbUiE"" data-token-name=""token"" data-do=""/v/junior-data-scientist-sportmaster-2021-10-14/bookmark"" data-undo=""/v/junior-data-scientist-sportmaster-2021-10-14/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+              </div>
+
+              <div class=""views reactions-bar__views"">
+                <span class=""ico"">
+                  <svg width=""19"" height=""16"">
+                    <use xlink:href=""#eye-icon"" href=""#eye-icon""></use>
+                  </svg>
+                </span>
+                <span class=""ml-1"">541</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+            <div class=""block__content entity__content"">
+        
+        
+        
+        
+        
+                            <div class=""list-parent vacancy-desc"">
+            <h2><strong>Примеры наших задач:</strong></h2><ul><li>Составление персональных рекомендаций.</li><li>Формирование персональных сортировок товарной выдачи и баннерных слайдеров.</li><li>Выделение сегментов из клиентской базы.</li></ul><h2><strong>Чем будешь заниматься ты?</strong></h2><ul><li>Принимать участие в полном цикле разработки алгоритмов: от проверки гипотез и создания прототипов до написания кода, который может использоваться в production.</li></ul><h2><strong>Наш стек технологий:</strong></h2><ul><li>Для разработки используем: Python, Spark, SQL Oracle, Hive / Impala.</li><li>Для организации работы: Jira, Confluence, Git.</li></ul><h2><strong>Мы ждём от наших будущих коллег:</strong></h2><ul><li>Аналитический подход к решению задач, желание самостоятельно генерировать идеи.</li><li>Уверенное владение SQL (оконные функции).</li><li>Знание Python (основные библиотеки работы с данными).</li><li>Английский на уровне чтения документации.</li></ul><h2><strong>Мы предлагаем:</strong></h2><ul><li>Удаленный формат работы, 1-2 дня в неделю работаем из офиса;</li><li>График работы: 5/2; 8.00-17.00, 9.00-18.00 или 10.00-19.00 (на выбор);</li><li>Зарплата ( 2 раза на карту) + Полугодовые премии;</li><li>ДМС - после испытательного срока;</li><li>Дисконтная карта на продукцию 30% магазинов сети + корпоративные скидки и специальные условия от партнеров;</li><li>Обучение - доступно внутреннее и внешнее обучение, проводим внутренние митапы, техтолки, посещаем профильные конференции;</li></ul>
+          </div>
+        
+        
+        <script>
+          function showContacts(element)
+          {
+            const block = document.getElementById(""contacts-block"");
+
+            element.onclick = null;
+            element.classList.remove(""btn"", ""btn-accent"");
+            element.style.height = ""auto"";
+            element.textContent = ""Контакты"";
+            block.style.display = ""block"";
+          }
+        </script>
+
+        <div id=""contacts-block"" style=""display: none;"">
+          
+                  </div>
+
+      </div>
+            <footer class=""block__footer"">
+                <div class=""flex flex-wrap align-between pv-2"">
+          <div class=""flex flex-wrap valign-center"">
+                          <div class=""mv-2 mr-4"">
+                <button class=""btn btn-accent btn-large"" type=""button"" data-respond-vacancy>Откликнуться</button>
+              </div>
+            
+            <div class=""flex valign-center flex-wrap mv-2 mr-4"">
+
+                                
+              
+              
+    <button type=""button"" data-reaction=""bookmark"" data-do-token=""OssU8p-SYxN4VUvZhrGJv_7vhga8MvBApapo-9qvR4c"" data-undo-token=""HWARc5bFInTadA7jfMcNKDpN0LELAtdZOZr74cZbUiE"" data-token-name=""token"" data-do=""/v/junior-data-scientist-sportmaster-2021-10-14/bookmark"" data-undo=""/v/junior-data-scientist-sportmaster-2021-10-14/unbookmark"" class=""reaction mr-4 "" data-text-default=""в закладки"" data-text-marked=""в закладках"">
+      <span class=""reaction__icon ico ico--small active"" data-load>
+        <svg width=""14"" height=""12""><use xlink:href=""#bookmark-icon"" href=""#bookmark-icon""></use></svg>
+      </span>
+      <span class=""reaction__count"" data-reaction-count>
+        0
+      </span>
+    </button>
+  
+            </div>
+          </div>
+
+                    <div class=""mv-2"">
+
+                
+  
+  <ul class=""share-menu menu no-list flex valign-center h-100 mt-2"">
+          <li class=""menu-item mr-4"" title=""Поделиться ВКонтакте"">
+        <a class=""no-link"" href=""https://vk.com/share.php?url=https://proglib.io/vacancies/junior-data-scientist-sportmaster-2021-10-14&amp;title=Junior%20Data%20scientist&amp;description=&amp;image=&amp;noparse=true"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#vk-icon"" href=""#vk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Facebook"">
+        <a class=""no-link"" href=""https://www.facebook.com/sharer/sharer.php?u=https://proglib.io/vacancies/junior-data-scientist-sportmaster-2021-10-14"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#fb-icon"" href=""#fb-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Twitter"">
+        <a class=""no-link"" href=""https://twitter.com/share?url=https://proglib.io/vacancies/junior-data-scientist-sportmaster-2021-10-14&amp;text=Junior%20Data%20scientist"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tw-icon"" href=""#tw-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Одноклассниках"">
+        <a class=""no-link"" href=""https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;service=odnoklassniki&amp;st.shareUrl=https://proglib.io/vacancies/junior-data-scientist-sportmaster-2021-10-14"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#odk-icon"" href=""#odk-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+          <li class=""menu-item mr-4"" title=""Поделиться в Telegram"">
+        <a class=""no-link"" href=""tg://msg_url?url=https://proglib.io/vacancies/junior-data-scientist-sportmaster-2021-10-14"" target=""_blank"" rel=""noopener noreferrer nofollow"">
+          <span class=""ico ico--social"">
+            <svg width=""30"" height=""30""><use xlink:href=""#tg-icon"" href=""#tg-icon""></use></svg>
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+
+
+          </div>
+        </div>
+
+
+      </footer>
+
+    </article>"
+1001483488834234,https://proglib.io/vacancies/data-scientist-dvgroup-2021-10-12,
+1001483488834233,https://proglib.io/vacancies/analitik-promyshlennyh-dannyh-watts-battery-2021-10-10,
+1001483488834232,https://proglib.io/vacancies/data-scientist-premer-analitika-2021-10-08,
+1001483488834231,https://proglib.io/vacancies/data-scientist-glassford-global-2021-10-06,
+1001483488834230,https://proglib.io/vacancies/data-scientist-borzo-2021-10-04,
+1001483488834229,https://proglib.io/vacancies/data-scientist-core-2021-10-02,
+1001483488834228,https://proglib.io/vacancies/data-scientist-rollerads-2021-09-30,
+1001483488834227,https://proglib.io/vacancies/data-scientist-comtek-inc-2021-09-28,
+1001483488834226,https://proglib.io/vacancies/data-scientist-sharespro-2021-09-26,
+1001483488834225,https://proglib.io/vacancies/senior-data-scientist-ihs-global-2021-09-24,
+1001483488834223,https://proglib.io/vacancies/data-scientist-rubbles-2021-09-22,
+1001483488834222,https://proglib.io/vacancies/data-scientist-segmentstream-2021-09-20,
+1001483488834221,https://proglib.io/vacancies/data-scientist-biblioteka-programmista-2021-09-19,
+1001483488834220,https://proglib.io/vacancies/data-scientist-bimdata-2021-09-17,
+1001483488834219,https://proglib.io/vacancies/data-engineer-assistance-group-2021-09-15,
+1001483488834218,https://wow.link/bN61,
+1001483488834217,https://proglib.io/vacancies/senior-data-scientist-osome-2021-09-13,
+1001483488834216,https://proglib.io/vacancies/senior-data-scientist-vigo-2021-09-11,
+1001483488834215,https://proglib.io/vacancies/data-scientist-workki-2021-09-09,
+1001483488834214,https://proglib.io/vacancies/sistemnyy-analitik-hflabs-2021-09-07,
+1001483488834213,https://forms.gle/kuFeTtoHhKQW2Ekc8,
+1001483488834212,https://proglib.io/vacancies/data-scientist-artes-electronics-2021-09-04,
+1001483488834211,https://proglib.io/vacancies/data-scientist-plarium-2021-09-03,
+1001483488834209,https://proglib.io/vacancies/junior-data-scientist-gpm-rtv-2021-09-01,
+1001483488834208,https://proglib.io/vacancies/data-scientist-gero-llc-2021-08-30,
+1001483488834207,https://proglib.io/vacancies/middle-data-scientist-ml-deeplay-2021-08-27,
+1001483488834206,https://proglib.io/vacancies/data-scientist-npf-budushchee-2021-08-24,
+1001483488834205,https://proglib.io/vacancies/data-scientist-ufimskiy-ntc-2021-08-23,
+1001483488834204,https://proglib.io/vacancies/juniour-data-scientist-element-leasing-2021-08-20,
+1001483488834203,https://proglib.io/vacancies/middle-senior-data-scientist-selecty-2021-08-18,
+1001483488834202,https://proglib.io/vacancies/starshiy-data-scientist-ibs-2021-08-17,
+1001483488834201,https://proglib.io/vacancies/junior-data-scientist-sitimobil-2021-08-15,
+1001483488834200,https://proglib.io/vacancies/junior-data-scientist-seldon-2021-08-12,
+1001483488834199,https://proglib.io/vacancies/data-science-analytics-dvgroup-2021-08-10,
+1001483488834198,https://proglib.io/vacancies/data-scientist-motify-2021-08-08,
+1001269328727140,https://strategy-it.com,
+1001269328727136,https://spb.hh.ru/vacancy/49145106,
+1001269328727135,https://sensoriumxr.com/ru,
+1001269328727133,https://yandex.ru/jobs/vacancies/data-scientist-в-поиск-7258,
+1001269328727132,https://www.mostbet.ru/,
+1001269328727129,https://www.aviasales.ru/about/vacancies/2659667,
+1001269328727128,https://captiv8.io/,
+1001269328727117,https://hh.ru/vacancy/47933656,"<div xmlns:hht=""http://hh.ru/development/hht"" class=""tmpl_hh_wrapper"">
+        <div class=""tmpl_hh_header"">
+            <img src=""https://hhcdn.ru/ichameleon/191437.jpg"" alt="""" class=""tmpl_hh_bg"">
+            <img src=""https://hhcdn.ru/ichameleon/191435.png"" alt="""" class=""tmpl_hh_img"">
+            <b><img src=""https://hhcdn.ru/ichameleon/192190.svg"">Мы цифровизируем Почту России</b>
+        </div>
+        
+        <div class=""tmpl_hh_content"">
+            <div class=""tmpl_hh_text"">
+                <p>Привет! Мы команда Почтовых технологий, или просто Почтатех <span></span></p>
+                <p>Почтатех - это ИТ подразделение Почты России, которое уже более 5 лет успешно занимается разработкой и развитием цифровых продуктов и сервисов.</p>
+                <p>Наши проекты масштабные и амбициозные, мы стремимся улучшать жизнь миллионов людей.</p>
+                <p>Нам есть чем гордиться и куда расти. Наша миссия - делать Почту современной, мобильной и дружелюбной <span></span></p>
+                <p>Присоединяйся к команде!</p>
+            </div>
+            <div class=""l-paddings b-vacancy-desc""><div class=""vacancy-branded-user-content"" itemprop=""description"" data-qa=""vacancy-description""><strong>Обязанности:</strong> <ul> <li>Разработка и проектирование алгоритмов и процессов загрузки данных в единую модель данных в Hadoop на Apache Airflow;</li> <li>Разработка процессов конвертации данных из КШД (Kafka);</li> <li>Оптимизация и настройка производительности ETL-процессов;</li> <li>Рефакторинг существующих решений и перевод их на единую модель данных как источник.</li> </ul> <strong>Требования:</strong> <ul> <li>Фундаментальные знания принципов построения распределенных систем хранения и обработки данных;</li> <li>Опыт работы с экосистемой Hadoop (HDFS, Hive, Spark);</li> <li>Опыт работы с реляционными СУБД (PostgeSQL);</li> <li>Навыки работы со Scala, Java;</li> <li>Опыт работы с Kafka (по крайней мере, теоретическое понимание).</li> </ul> <p><strong>Желательно:</strong></p> <ul> <li>Навыки работы с Unix shell;</li> <li>Навыки работы с Python;</li> <li>Опыт работы с реляционными СУБД (PostgeSQL, Vertica);</li> <li>Опыт работы с промышленными ETL средствами (Informatica, Pentaho).</li> </ul> <strong>Условия:</strong> <ul> <li>Возможность проявить себя в социально-значимых проектах федерального уровня;</li> <li>Гибкий график и удаленную работу;</li> <li>Конкурентное предложение по заработной плате и ежегодное премирование;</li> <li>ДМС со стоматологией, страхование на время выезда за рубеж после трех месяцев работы в компании;</li> <li>Льготное кредитование в Почтабанке и скидки у компаний-партнеров (фитнес, страхование, путевки от туроператоров);</li> <li>Полное соблюдение ТК РФ;</li> <li>Менторство внутри команд, дружелюбная атмосфера, быстро развивающиеся сообщества по экспертизам (Java, frontend, iOS, Android, devOps, design, QA)</li> <li>Demo-дни каждый месяц.</li> </ul></div></div>
+        </div>
+
+        <div class=""tmpl_hh_footer"">
+            <img src=""https://hhcdn.ru/ichameleon/191436.png"" alt="""">
+            <p>Компания АО ""ПОЧТА РОССИИ"" является владельцем бренда Почтовые технологии</p>
+        </div>
+    </div>"
+1001269328727116,https://t.me/jabainga,
+1001269328727115,https://clck.ru/XcF2Z,
+1001269328727114,https://practicum.yandex.ru/job/vacancy-72/,
+1001269328727108,https://hh.ru/vacancy/46098665,"<div xmlns:hht=""http://hh.ru/development/hht"" class=""tmpl_hh_wrapper"">
+        <div class=""tmpl_hh_header"">
+            <img src=""https://hhcdn.ru/ichameleon/191437.jpg"" alt="""" class=""tmpl_hh_bg"">
+            <img src=""https://hhcdn.ru/ichameleon/191435.png"" alt="""" class=""tmpl_hh_img"">
+            <b><img src=""https://hhcdn.ru/ichameleon/192190.svg"">Мы цифровизируем Почту России</b>
+        </div>
+        
+        <div class=""tmpl_hh_content"">
+            <div class=""tmpl_hh_text"">
+                <p>Привет! Мы команда Почтовых технологий, или просто Почтатех <span></span></p>
+                <p>Почтатех - это ИТ подразделение Почты России, которое уже более 5 лет успешно занимается разработкой и развитием цифровых продуктов и сервисов.</p>
+                <p>Наши проекты масштабные и амбициозные, мы стремимся улучшать жизнь миллионов людей.</p>
+                <p>Нам есть чем гордиться и куда расти. Наша миссия - делать Почту современной, мобильной и дружелюбной <span></span></p>
+                <p>Присоединяйся к команде!</p>
+            </div>
+            <div class=""l-paddings b-vacancy-desc""><div class=""vacancy-branded-user-content"" itemprop=""description"" data-qa=""vacancy-description""><p>В команду Data Science Почтатеха нужен Data Ops инженер. Мы занимаемся DS моделями для всей Почты, от простых офлайн моделей до спарка и сервисов. В команде 4 человека, мы переводим продакшн наших моделей на k8s и airflow.</p> <p><strong>Какие задачи ждут именно тебя:</strong></p> <ul> <li>Участие в жизненном цикле проектов Data Science на всех этапах;</li> <li>Автоматизация построения пайплайнов обработки данных;</li> <li>Автоматизация процессов сборки моделей;</li> <li>Поддержка и развитие инфраструктуры Data Science (Kubernetes, Airflow, Docker, Teamcity, git, dvc);</li> <li>Взаимодействие с командой DEVOPS в части организации единых процессов разработки.</li> </ul> <p><strong>Мы ожидаем от тебя:</strong></p> <ul> <li>Опыт работы DevOps от 1 года;</li> <li>Понимание принципов CI/CD;</li> <li>Хорошее понимание архитектуры Hadoop, БД (Hive, Vertica, PostgreSQL);</li> <li>Быть знакомым с инструментами и методами ML;</li> <li>Готовность разбираться в новых инструментах, участвовать в их продвижении и популяризации.</li> </ul> <strong>Условия:</strong> <ul> <li>Возможность проявить себя в социально-значимых проектах федерального уровня;</li> <li>Гибкий график и удаленную работу;</li> <li>Конкурентное предложение по заработной плате и ежегодное премирование;</li> <li>ДМС со стоматологией, страхование на время выезда за рубеж после трех месяцев работы в компании;</li> <li>Льготное кредитование в Почтабанке и скидки у компаний-партнеров (фитнес, страхование, путевки от туроператоров);</li> <li>Полное соблюдение ТК РФ;</li> <li>Менторство внутри команд, дружелюбная атмосфера, быстро развивающиеся сообщества по экспертизам (Java, frontend, iOS, Android, devOps, design, QA)</li> <li>Demo-дни каждый месяц.</li> </ul></div></div>
+        </div>
+
+        <div class=""tmpl_hh_footer"">
+            <img src=""https://hhcdn.ru/ichameleon/191436.png"" alt="""">
+            <p>Компания АО ""ПОЧТА РОССИИ"" является владельцем бренда Почтовые технологии</p>
+        </div>
+    </div>"
+100126932872796,https://colossal-baroness-b09.notion.site/We-are-hiring-BI-Analyst-d87cae78ee914fbc8db630f607650b75,
+100126932872795,https://www.selina.com/,
+100126932872794,https://dsmeetup.rt.ru/,
+100126932872792,https://boards.greenhouse.io/flohealth/jobs/4541701003,
+1001291755040556,https://t.me/Code_book,
+1001291755040546,https://tecforce.ru/clients/#ministerstvo-oboronyi-rf,
+1001291755040533,https://blanc.ru/,
+1001291755040532,https://rn-bank.ru/about/,
+1001291755040529,https://youtu.be/ey-_8-GK_9Y,
+1001291755040511,https://vc.ru/services/168682-sber-zapustit-servis-geoanalitiki-dlya-biznesa-s-dannymi-o-tratah-i-peredvizheniyah-rossiyan,
+1001291755040509,https://www.selina.com/,
+1001291755040499,https://spb.hh.ru/vacancy/43145739,
+1001321264581731,https://hh.ru/vacancy/49271561,
+1001321264581730,https://hh.ru/vacancy/47526371,"<div xmlns:hht=""http://hh.ru/development/hht"" class=""tmpl_hh_wrapper"">
+        <div class=""tmpl_hh_banner""><img class=""tmpl_hh_logo"" src=""https://hhcdn.ru/ichameleon/190196.png"" alt=""""><img src=""https://hhcdn.ru/ichameleon/190187.png"" alt=""""></div>
+        <div class=""tmpl_hh_inner_wrapper"">
+            <div class=""tmpl_hh_content"">
+        <div class=""l-paddings b-vacancy-desc""><div class=""vacancy-branded-user-content"" itemprop=""description"" data-qa=""vacancy-description""><p></p><p><b></b></p><p><b>SberData </b>– департамент по управлению данными всего Сбербанка. SberData строит централизованное хранилище данных, объем которого уже превышает 10 ПБ. Это продуктово-ориентированная инженерная команда с функциями развития выделенных технологических направлений, отражающих новый подход Сбербанка к данным и к применению AI.</p><p> </p><p><b>Чем занимаемся:</b></p><p>Внедряем машинное обучение в процессах блока Технологий. Мы реализуем проекты в абсолютно разных направлениях, например:</p><ul><li>Выявление аномальных транзакций;</li><li>Оценка контактности клиента в процессах сбора задолженности;</li><li>Рекомендация продуктов банковской экосистемы;</li><li>Прогнозирование и оптимизация сроков доставки банковских карт;</li><li>Автоматизация ручных проверок документов;</li></ul><p> </p><p> Прямо сейчас сконцентрированы на следующих активностях:</p><ul><li>Прогнозирование возникновения связей в графах ЮЛ/ФЛ;</li><li>Автоматизированная проверка машин из банковского автопарка по фото;</li></ul><p> </p><p><b>Обязанности предполагают участие в проектах на всех стадиях от начала до конца:</b></p><ul><li>Общение с бизнес-заказчиками: выявление и формализация их потребностей, анализ пригодности данных для моделирования, определение целевых метрик</li><li>Формирование и проверка ML-гипотез с умением обосновать свой выбор, разработка решения</li><li>Организация и проведение пилотов, оценка бизнес-эффекта</li><li>Презентация результатов работы бизнесу</li><li>Внедрение и сопровождение моделей</li></ul><p> </p><p> <b>От кандидата мы хотим видеть:</b></p><ul><li>Профильное математическое/техническое образование</li><li>Промышленный опыт работы в области анализа данных и машинного обучения не менее полутора лет</li><li>Глубокое понимание базового машинного обучения и прикладной статистики</li><li>Промышленный опыт Python, SQL БД (Teradata, Oracle, MS SQL, PostgreSQL), Hadoop: Spark, Hive, Impala</li><li>Умение писать воспроизводимый поддерживаемый код и разбираться в чужом</li><li>Умение быстро погружаться в новую тему, искать правильные статьи и open-source решения</li></ul><p> </p><p><b>Будет плюсом:</b></p><ul><li>Deep learning (pytorch) в прикладных задачах CV, NLP</li></ul><p> </p><p><b>С нас:</b></p><ul><li>Структура дохода: фиксированный оклад + годовая премия (выплата в конце года)</li><li>Место работы: г. Москва, м. Ленинский проспект / Тульская / Нагатинская (Бизнес центр «Даниловский Форт»</li><li>Официальное трудоустройство</li><li>График работы: 5/2 с 9:00 до 18:00 (есть возможность изменить часы прихода-ухода)</li><li>Бессрочный трудовой договор</li><li>ДМС</li><li>Бесплатный фитнес на территории работодателя</li><li>Внутренние и внешние курсы повышения квалификации</li></ul></div></div>
+    </div>
+        </div>
+        <div class=""tmpl_hh_atmosphere"">
+            <div class=""tmpl_hh_inner_wrapper"">
+                <p class=""tmpl_hh_title"">Атмосфера</p>
+            </div>
+            <div class=""tmpl_hh_atmosphere__slider"">
+                <div class=""swiper-container"">
+                    <div class=""swiper-wrapper"">
+                        <div class=""swiper-slide""><img src=""https://hhcdn.ru/ichameleon/170982.jpg"" alt=""""></div>
+                        <div class=""swiper-slide""><img src=""https://hhcdn.ru/ichameleon/170981.jpg"" alt=""""></div>
+                        <div class=""swiper-slide""><img src=""https://hhcdn.ru/ichameleon/170980.jpg"" alt=""""></div>
+                        <div class=""swiper-slide""><img src=""https://hhcdn.ru/ichameleon/170983.jpg"" alt=""""></div>
+                    </div>
+                </div>
+                <div class=""swiper-pagination""></div>
+                <div class=""tmpl_hh_control"">
+                    <div class=""swiper-button-prev""></div>
+                    <div class=""swiper-button-next""></div>
+                </div>
+            </div>
+        </div>
+
+        <div class=""tmpl_hh_inner_wrapper"">
+            <div class=""tmpl_hh_conditions"">
+                <p class=""tmpl_hh_title"">Преимущества работы в Сбере</p>
+                <div class=""tmpl_hh_conditions__container"">
+                    <div class=""tmpl_hh_item"">
+                        <div class=""tmpl_hh_item__icon""><img src=""https://hhcdn.ru/ichameleon/172042.svg"" alt=""""></div>
+                        <p>Уникальные технологические и инновационные проекты</p>
+                    </div>
+                    <div class=""tmpl_hh_item"">
+                        <div class=""tmpl_hh_item__icon""><img src=""https://hhcdn.ru/ichameleon/172039.svg"" alt=""""></div>
+                        <p>Команда экспертов и профессионалов своего дела</p>
+                    </div>
+                    <div class=""tmpl_hh_item"">
+                        <div class=""tmpl_hh_item__icon""><img src=""https://hhcdn.ru/ichameleon/172012.svg"" alt=""""></div>
+                        <p>Развитие и обучение: своя digital-платформа для дистанционного обучения и развития ключевых ИТ-компетенций</p>
+                    </div>
+                    <div class=""tmpl_hh_item"">
+                        <div class=""tmpl_hh_item__icon""><img src=""https://hhcdn.ru/ichameleon/172040.svg"" alt=""""></div>
+                        <p>Социальный пакет (ДМС, корпоративная пенсионная программа, материальная помощь)</p>
+                    </div>
+                    <div class=""tmpl_hh_item"">
+                        <div class=""tmpl_hh_item__icon""><img src=""https://hhcdn.ru/ichameleon/172020.svg"" alt=""""></div>
+                        <p>Скидки для сотрудников от партнеров экосистемы Сбера</p>
+                    </div>
+                    <div class=""tmpl_hh_item"">
+                        <div class=""tmpl_hh_item__icon""><img src=""https://hhcdn.ru/ichameleon/172013.svg"" alt=""""></div>
+                        <p>Свободный дресс-код</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class=""tmpl_hh_making_better"">
+                <p class=""tmpl_hh_title"">Делай мир лучше со Сбером</p>
+                <div class=""tmpl_hh_video"">
+                    <iframe src=""https://www.youtube.com/embed/NE7r2spvvc8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen=""allowfullscreen""><!-- --></iframe>
+                </div>
+            </div>
+        </div>
+    </div>"
+1001321264581712,https://anchor.fm/data-therapy/episodes/ep-e19asvo,
+1001321264581706,http://aclyon.ru,
+1001321264581698,https://hh.ru/vacancy/47567273,
+1001321264581697,https://youtu.be/NE7r2spvvc8,
+1001321264581694,https://youtu.be/NE7r2spvvc8,
