@@ -1,9 +1,9 @@
 # Финальный проект по анализу данных
 
 ## Данные
-visits_info_short.csv.
-orders_info_short.csv.
-costs_info_short.csv.
+visits_info_short.csv.  
+orders_info_short.csv.  
+costs_info_short.csv.  
 
 ### Описание данных
 

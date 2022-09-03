@@ -1,10 +1,10 @@
 # A/B-тестирование
 
 ## Данные
-final_ab_events.csv  
-final_ab_project_marketing_events.csv  
-final_ab_new_users.csv  
-final_ab_participants.csv  
+final_ab_events.csv
+final_ab_project_marketing_events.csv
+final_ab_new_users.csv
+final_ab_participants.csv
 
 ### Описание данных
 ab_project_marketing_events.csv — календарь маркетинговых событий на 2020 год.

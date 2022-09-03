@@ -1,11 +1,11 @@
 # Мегалайн
 
 ## Данные
-calls.csv  
-internet.csv  
-messages.csv  
-tariffs.csv  
-users.csv  
+calls.csv
+internet.csv
+messages.csv
+tariffs.csv
+users.csv
 
 ### Описание данных
 
